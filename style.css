@@ -1,0 +1,44 @@
+ 
+ h1,
+  h2{
+   text-align: center;
+ 
+ }
+ 
+
+
+.box{
+  border: 2px solid black;
+  padding: 10px;
+  height: 300px;
+  width: 350px;
+  border-radius: 10px;
+  margin: 10% auto;
+ 
+   
+  color: black;
+}
+
+input{
+ height: 25px;
+ width: 300px;
+ margin: 10px auto;
+ border: 2px solid black;
+ border-radius: 10px;
+ margin-left: 12px;
+ padding: 10px;
+ 
+  
+}
+
+button{
+  height: 40px;
+  width: 200px;
+  margin-left: 50px;
+  border-radius: 10px;
+  background-color: green;
+}
+
+p{
+  margin-left: 120px;
+}
